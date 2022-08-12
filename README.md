@@ -1,7 +1,7 @@
 # ERC-20 Token
 Example of ERC Fungible Token ERC-20
 
-Will provide two implementations one based on the ERC20 from OpenZeppelin ![ERC20_OpenZep.sol](contracts/DCS_OpenZep.sol.sol) and one from Scratch ![ERC20_Scratch](contracts/DCS_Scratch.sol.sol)
+Will provide two implementations one based on the ERC20 from OpenZeppelin ![ERC20-DCS_OpenZep.sol](contracts/DCS_OpenZep.sol) and one from Scratch ![ERC20-DCS_Scratch](contracts/DCS_Scratch.sol)
 
 ## CONTRACTS IN RINKEBY
 
